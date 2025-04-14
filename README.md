@@ -1,1 +1,1 @@
-# Ingenias_2025_DataScience
+# Curso Ingenias - DataScience (2025)
