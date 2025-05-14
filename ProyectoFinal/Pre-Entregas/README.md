@@ -29,8 +29,7 @@ url: https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-
 **Herramientas:**
 * Python (Google Colab)
 * Librerías:
-  - `pandas`: manejo de datos
-  - `numpy`: soporte matemático
-  - `seaborn`: visualización avanzada
-  - `matplotlib`: gráficos básicos
-  - `sklearn.preprocessing`: codificación de variables
+  - `pandas`
+  - `numpy`
+  - `seaborn`
+  - `matplotlib`
