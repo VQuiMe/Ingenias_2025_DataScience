@@ -18,6 +18,8 @@ Kaggle
 url: https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being?select=val.csv
 
 **Estructura:**
+* README.md
+* Pre-Entrega 2 (Colab)
 
 **Metodología:**
 * Limpieza de datos
