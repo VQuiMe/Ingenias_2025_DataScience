@@ -1,4 +1,4 @@
-# Entrega final de Data Science
+# Pre-Entregas proyecto - Curso DataScience
 
 **Integrantes:**
 * Valentina Quintero
